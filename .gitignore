@@ -1,0 +1,30 @@
+# virtual env
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# notebooks
+.ipynb_checkpoints/
+
+# data files
+*.parquet
+
+# OS junk
+.DS_Store
+
+# env files
+.env
+
+
+# run-time folders data 
+runs/
+outputs/
+checkpoints/
+models/
+*.pt
+*.pth

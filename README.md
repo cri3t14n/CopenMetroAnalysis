@@ -1,0 +1,1 @@
+Create a virtual .env, and run: pip install -r requirements.txt
