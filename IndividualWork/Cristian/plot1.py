@@ -58,6 +58,7 @@ ax.fill_between(
     slot_total["slot"],
     slot_total["ci_low"],
     slot_total["ci_high"],
+    color="tab:orange",
     alpha=0.25,
     label="95% confidence band",
 )

@@ -46,6 +46,7 @@ ax.fill_between(
     slot_direction["slot"],
     slot_direction["ci_low"],
     slot_direction["ci_high"],
+    color="tab:orange",
     alpha=0.25,
     label="95% confidence band",
 )
